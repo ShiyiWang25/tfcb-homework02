@@ -1,8 +1,8 @@
 # 2013 Field Session
 
 ## [Data](https://github.com/ShiyiWang25/tfcb-homework02/tree/main/data)
-* Example
-  Species: DM
+**Example**
+* Species: DM
 
 | Date Collected| Plot          | Sex   | Weight|
 | ------------- |:-------------:| -----:| -----:|
